@@ -1,0 +1,1 @@
+I added a check for when the client enters 0/0, it will now be caught and throw an Expression Error
